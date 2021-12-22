@@ -1,0 +1,32 @@
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.NaviList-anchor{
+text-align: left;
+width: 200px;
+display: inline-block;
+text-decoration: none;
+}
+
+.NaviList-image {
+    width: 55px;
+}
+
+.NaviList-item {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3ch;
+    text-decoration: none;
+}
